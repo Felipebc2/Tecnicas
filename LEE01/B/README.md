@@ -17,7 +17,7 @@ A conjectura diz que para qualquer número natural inteiro, a aplicação sucess
 Assim, sua tarefa é, dado um inteiro, aplicar as regras apresentadas sucessivamente até que o valor seja 1.
 
 ### **Input**
-A entrada possui um inteiro (1 ≤ N ≤ 10), que é o valor inicial.
+A entrada possui um inteiro N(1 ≤ N ≤ 10), que é o valor inicial.
 
 ### **Output**
 A saída deve conter a sequência de inteiros, separados por espaço, da aplicação das regras da conjectura até o valor 1, conforme os exemplos.
